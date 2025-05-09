@@ -9,7 +9,7 @@
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-git clone "https://github.com/Bharat2044/Namaste-React.git"
+git clone "https://github.com/Guru1378/Namaste-Swiggy.git"
 ```
 
 ### Go to the Project Directory
