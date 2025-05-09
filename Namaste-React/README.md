@@ -346,6 +346,6 @@ This application should now be running on `localhost`. If you want to Fork repos
 
 ## 🔗 **Let's Connect** 🤝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/guruprasad/](https://in.linkedin.com/in/guruprasad-nooliveedu))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/guruprasad-nooliveedu))
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/guruprasad_nooliveedu)
