@@ -11,49 +11,6 @@ You need to write the following commands on the terminal screen(in vscode) so th
 ```bash
 git clone "https://github.com/Guru1378/Namaste-Swiggy.git"
 ```
-
-### Go to the Project Directory
-
-```sh
-cd Namaste-React
-```
-
-### Install Dependencies
-
-```sh
-npm install
-```
-
-### Run the Project
-
-```sh
-npm start
-```
-
-Or,
-
-```sh
-npm run start
-```
-
-Or,
-
-```sh
-npx parcel index.html
-```
-
-### Test the Project
-
-```sh
-npm test
-```
-
-Or,
-
-```sh
-npm run test
-```
-
 This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 <br />
