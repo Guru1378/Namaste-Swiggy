@@ -1,6 +1,6 @@
 # ❤️ **Namaste React** 🙏
 
-> ### _[Namaste React Course](https://namastedev.com/learn/namaste-react) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)(Founder of NamasteDev). This repository contains Codes, Assignmenst, Assignment Solution & Class Notes taken during this course._
+> ### _[Namaste React Course](https://namastedev.com/learn/namaste-react) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)(Founder of NamasteDev). This repository contains Codes, Assignmenst, Assignment Solution & Class Notes taken during this course.
 
 <br />
 
